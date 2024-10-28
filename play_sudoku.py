@@ -53,6 +53,7 @@ def play_sudoku():
                 break
     else:
         print("해결할 수 없는 스도쿠 퍼즐입니다.")
-
+        
+if __name__ == "__main__"
 # 게임 시작
 play_sudoku()
